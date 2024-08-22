@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\Supermarket Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|e:\\unity\\supermarket simulator\\assets\\script\\blockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\blockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\handmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\handmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\itemscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\itemsprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemsprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\showitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\showitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\openblockspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\openblockspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\showcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\showcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\runtimefbxloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\runtimefbxloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|E:\\unity\\Supermarket Simulator\\assets\\script\\displaycanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AEBAB1-CD52-AE0B-3420-AB3F329ABF54}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\displaycanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandManager.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\HandManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\HandManager.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\HandManager.cs",
+              "RelativeToolTip": "Assets\\script\\HandManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:46:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsCard.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ItemsCard.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemsCard.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ItemsCard.cs",
+              "RelativeToolTip": "Assets\\script\\ItemsCard.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvzYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:18:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsPrefab.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ItemsPrefab.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemsPrefab.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ItemsPrefab.cs",
+              "RelativeToolTip": "Assets\\script\\ItemsPrefab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:17:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayCanvas.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\DisplayCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\DisplayCanvas.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\DisplayCanvas.cs",
+              "RelativeToolTip": "Assets\\script\\DisplayCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:10:15.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockUI.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\BlockUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BlockUI.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\BlockUI.cs",
+              "RelativeToolTip": "Assets\\script\\BlockUI.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowJIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:21:05.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowCanvas.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ShowCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShowCanvas.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ShowCanvas.cs",
+              "RelativeToolTip": "Assets\\script\\ShowCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:20:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RuntimeFBXLoader.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\RuntimeFBXLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\RuntimeFBXLoader.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\RuntimeFBXLoader.cs",
+              "RelativeToolTip": "Assets\\script\\RuntimeFBXLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:55:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenBlocksPage.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\OpenBlocksPage.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\OpenBlocksPage.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\OpenBlocksPage.cs",
+              "RelativeToolTip": "Assets\\script\\OpenBlocksPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:10:17.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowItemList.cs",
+              "DocumentMoniker": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ShowItemList.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShowItemList.cs",
+              "ToolTip": "E:\\unity\\Supermarket Simulator\\Assets\\script\\ShowItemList.cs",
+              "RelativeToolTip": "Assets\\script\\ShowItemList.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwv0cAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:02:40.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
