@@ -1,1 +1,1 @@
-# VR
+# VR supermarket simulator
